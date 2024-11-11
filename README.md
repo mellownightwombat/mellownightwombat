@@ -1,4 +1,18 @@
 - When I find time, I will update here!
+
+
+
+<!--
+### Hi there 👋
+- 🌿 I'm currently working on my master's in plant physiology! 
+- 💻 I'm currently trying to learn Python and R
+- ⚡ Fun fact: I wanted to be a bioinformatician in protein structure and conformation while studying. I was also interested in lncRNA in human diseases. 
+- 📫 How to reach me: It's simple to send a mail 
+-->
+
+<!---
+mellownightwombat/mellownightwombat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 -
 - 👋 Hi, I’m @mellownightwombat
 - 👀 I’m interested in ...
@@ -8,7 +22,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-mellownightwombat/mellownightwombat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 --->
