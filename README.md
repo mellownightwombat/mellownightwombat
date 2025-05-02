@@ -1,4 +1,10 @@
 ## Hi there 👋
+Some stuff that I will add here, but mostly for myself. Maybe some things are useful for you too. Here is the stuff I plan to add 
+
+1. Some R scripts which will help me with my analysis, mostly about plants tbh
+2. Python scripts for RNA or DNA stuff (I hope I will write them) 
+If I won't forget, I will be updating here 
+
 
 <!--
 **mellownightwombat/mellownightwombat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
