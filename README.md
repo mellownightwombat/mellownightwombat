@@ -4,6 +4,7 @@ Some stuff that I will add here, but mostly for myself. Maybe some things are us
 1. Some R scripts which will help me with my analysis, mostly about plants tbh
 2. Python scripts for RNA or DNA stuff (I hope I will write them)
 3. Currently returned to my old hobby, Arduino
+
 If I don't forget, I will be updating here 
 
 
